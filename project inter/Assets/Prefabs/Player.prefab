@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6651721758465908051}
-  m_Layer: 9
+  m_Layer: 10
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 3606821897716809691}
   - component: {fileID: 3606821897720233977}
   - component: {fileID: 3606821897719233849}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116,7 +116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3606821897716809695}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: robot-with-hands
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ GameObject:
   - component: {fileID: 797540000}
   - component: {fileID: 4104817327885257708}
   - component: {fileID: 2056876403227194538}
-  m_Layer: 9
+  m_Layer: 10
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73735188b8a7a4018965057af44d714d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7.5
+  speed: 12.5
   rb: {fileID: 2056876403227194538}
   anim: {fileID: 7908578882637383952}
   isFacingRight: 0
